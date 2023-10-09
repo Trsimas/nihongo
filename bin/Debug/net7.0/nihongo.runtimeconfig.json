@@ -13,6 +13,10 @@
     ],
     "configProperties": {
       "System.GC.Server": true,
+<<<<<<< HEAD
+=======
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
+>>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
     }
   }

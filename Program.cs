@@ -1,6 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using nihongo.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AppDbContext>(options =>
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaulConnection")));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -19,6 +24,9 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.MapControllerRoute(
+name: "areas",
+pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
