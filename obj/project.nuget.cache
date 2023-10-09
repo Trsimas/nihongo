@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VQ0ac6XVWDiML7vYCydzHyOuk+Z3vvjO9Fuy88V+OWpx1fBA73T+eAaaqr2nuphRlwKEFP9sjPton+HUjRDUg==",
+  "dgSpecHash": "/jIIkHrQbM2fQ0cco1QaIVzYGjBXT0D7nl/aZ4EilB/s1Q/pgo6jxslE0Qplso0ZtCJp2t2K0Jve+jEJSeaf6g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cs\\nihongo\\nihongo.csproj",
+  "projectFilePath": "C:\\dev\\nihongo\\nihongo\\nihongo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
