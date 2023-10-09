@@ -11539,11 +11539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\nihongo\\nihongo\\nihongo.csproj",
+      "projectUniqueName": "C:\\Dev\\cs\\nihongo\\nihongo.csproj",
       "projectName": "nihongo",
-      "projectPath": "C:\\dev\\nihongo\\nihongo\\nihongo.csproj",
+      "projectPath": "C:\\Dev\\cs\\nihongo\\nihongo.csproj",
       "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\nihongo\\nihongo\\obj\\",
+      "outputPath": "C:\\Dev\\cs\\nihongo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

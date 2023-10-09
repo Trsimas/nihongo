@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-<<<<<<< HEAD
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nihongo", "nihongo.csproj", "{3235E1D4-9E08-43A7-A1AE-30C137EA2B63}"
-=======
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nihongo", "nihongo.csproj", "{86A790FA-1747-4CEB-9616-D3465D6C788E}"
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,26 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
-		{3235E1D4-9E08-43A7-A1AE-30C137EA2B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3235E1D4-9E08-43A7-A1AE-30C137EA2B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3235E1D4-9E08-43A7-A1AE-30C137EA2B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3235E1D4-9E08-43A7-A1AE-30C137EA2B63}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{86A790FA-1747-4CEB-9616-D3465D6C788E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86A790FA-1747-4CEB-9616-D3465D6C788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A790FA-1747-4CEB-9616-D3465D6C788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A790FA-1747-4CEB-9616-D3465D6C788E}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-<<<<<<< HEAD
-		SolutionGuid = {C4A15BC4-24DD-4823-88E8-F28FBC993640}
-=======
 		SolutionGuid = {B93B8B18-EA1C-4D0E-BFC3-0318A91BA840}
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
 	EndGlobalSection
 EndGlobal

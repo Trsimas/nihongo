@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "glZK3BncI92UjNp93ZOrVSufixXasSpVyuxxJiy99JU=",
-=======
-  "Hash": "x3huO4tkyPbPCfA/ZQgaBPSaeM/pRfMbt1abMqXNxGw=",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
+  "Hash": "htYJ16tK0cSU43mye3858qr20TnCke+MR82IPW/JiDg=",
   "Source": "nihongo",
   "BasePath": "_content/nihongo",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "nihongo\\wwwroot",
       "Source": "nihongo",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nihongo.styles.css",
-      "SourceId": "nihongo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nihongo.styles.css",
       "SourceId": "nihongo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "nihongo.styles.css",
       "AssetKind": "All",
@@ -46,15 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nihongo.styles.css"
-    },
-    {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nihongo.bundle.scp.css",
-      "SourceId": "nihongo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
       "OriginalItemSpec": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\nihongo.styles.css"
     },
     {
@@ -62,7 +38,6 @@
       "SourceId": "nihongo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "nihongo.bundle.scp.css",
       "AssetKind": "All",
@@ -73,15 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nihongo.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\css\\site.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nihongo.bundle.scp.css"
     },
     {
@@ -89,7 +55,6 @@
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -103,17 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\favicon.ico",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\favicon.ico",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -127,11 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\barka.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\barka.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/barka.png",
       "AssetKind": "All",
@@ -145,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\barka.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\house.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\house.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/house.png",
       "AssetKind": "All",
@@ -162,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\house.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\logo.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\logo.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/logo.png",
       "AssetKind": "All",
@@ -179,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\logo.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\nome.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\nome.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/nome.png",
       "AssetKind": "All",
@@ -196,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\nome.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sake.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sake.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/sake.png",
       "AssetKind": "All",
@@ -213,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sake.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\shiru.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\shiru.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/shiru.png",
       "AssetKind": "All",
@@ -230,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\shiru.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi1.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi1.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/sushi1.png",
       "AssetKind": "All",
@@ -247,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sushi1.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi2.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi2.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/sushi2.png",
       "AssetKind": "All",
@@ -264,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sushi2.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi3.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi3.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/sushi3.png",
       "AssetKind": "All",
@@ -281,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\sushi3.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\temaki.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\temaki.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/temaki.png",
       "AssetKind": "All",
@@ -298,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\temaki.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\vector.png",
+      "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\vector.png",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
       "BasePath": "_content/nihongo",
       "RelativePath": "imagens/vector.png",
       "AssetKind": "All",
@@ -315,16 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\vector.png"
     },
     {
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\js\\site.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\js\\site.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -338,17 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -362,17 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -386,17 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -410,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -434,17 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -458,17 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -482,17 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -506,17 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -530,17 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -554,17 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -578,17 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -602,17 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -626,17 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -650,17 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -674,17 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -698,17 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -722,17 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -746,17 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -770,17 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -794,17 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -818,17 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -842,17 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -866,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -890,17 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -914,17 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -938,17 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -962,17 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -986,17 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1010,17 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1034,17 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1058,17 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1082,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1106,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1130,17 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1154,17 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1178,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1202,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1226,17 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1250,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1274,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1298,17 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1322,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1346,17 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1370,17 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1394,17 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1418,17 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1442,17 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1466,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1490,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1514,17 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1538,17 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1562,17 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1586,17 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1610,17 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1634,17 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1658,17 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1682,17 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "nihongo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\nihongo\\nihongo\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "nihongo",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\nihongo\\wwwroot\\",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "BasePath": "_content/nihongo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

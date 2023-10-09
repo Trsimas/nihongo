@@ -1,11 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "/jIIkHrQbM2fQ0cco1QaIVzYGjBXT0D7nl/aZ4EilB/s1Q/pgo6jxslE0Qplso0ZtCJp2t2K0Jve+jEJSeaf6g==",
-  "success": true,
-  "projectFilePath": "C:\\dev\\nihongo\\nihongo\\nihongo.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "JWYeD5tCjFybCnbbeDmhd2Vgwv0XTkRAc+rZLskceJsYdfjeTiboPQRGqrw/wHMsC1W+KAQUXAJAnAAgf2kbqQ==",
   "success": true,
   "projectFilePath": "C:\\Dev\\cs\\nihongo\\nihongo.csproj",
@@ -240,6 +234,5 @@
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
   "logs": []
 }

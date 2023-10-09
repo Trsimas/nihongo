@@ -1,293 +1,6 @@
 {
   "Files": [
     {
-<<<<<<< HEAD
-      "Id": "C:\\dev\\nihongo\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nihongo.bundle.scp.css",
-      "PackagePath": "staticwebassets\\nihongo.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\barka.png",
-      "PackagePath": "staticwebassets\\imagens\\barka.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\house.png",
-      "PackagePath": "staticwebassets\\imagens\\house.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\logo.png",
-      "PackagePath": "staticwebassets\\imagens\\logo.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\nome.png",
-      "PackagePath": "staticwebassets\\imagens\\nome.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sake.png",
-      "PackagePath": "staticwebassets\\imagens\\sake.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\shiru.png",
-      "PackagePath": "staticwebassets\\imagens\\shiru.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi1.png",
-      "PackagePath": "staticwebassets\\imagens\\sushi1.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi2.png",
-      "PackagePath": "staticwebassets\\imagens\\sushi2.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\sushi3.png",
-      "PackagePath": "staticwebassets\\imagens\\sushi3.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\temaki.png",
-      "PackagePath": "staticwebassets\\imagens\\temaki.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\imagens\\vector.png",
-      "PackagePath": "staticwebassets\\imagens\\vector.png"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\dev\\nihongo\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-=======
       "Id": "C:\\Dev\\cs\\nihongo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\nihongo.bundle.scp.css",
       "PackagePath": "staticwebassets\\nihongo.bundle.scp.css"
     },
@@ -298,6 +11,50 @@
     {
       "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\barka.png",
+      "PackagePath": "staticwebassets\\imagens\\barka.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\house.png",
+      "PackagePath": "staticwebassets\\imagens\\house.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\logo.png",
+      "PackagePath": "staticwebassets\\imagens\\logo.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\nome.png",
+      "PackagePath": "staticwebassets\\imagens\\nome.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sake.png",
+      "PackagePath": "staticwebassets\\imagens\\sake.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\shiru.png",
+      "PackagePath": "staticwebassets\\imagens\\shiru.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi1.png",
+      "PackagePath": "staticwebassets\\imagens\\sushi1.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi2.png",
+      "PackagePath": "staticwebassets\\imagens\\sushi2.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\sushi3.png",
+      "PackagePath": "staticwebassets\\imagens\\sushi3.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\temaki.png",
+      "PackagePath": "staticwebassets\\imagens\\temaki.png"
+    },
+    {
+      "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\imagens\\vector.png",
+      "PackagePath": "staticwebassets\\imagens\\vector.png"
     },
     {
       "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\js\\site.js",
@@ -529,7 +286,6 @@
     },
     {
       "Id": "C:\\Dev\\cs\\nihongo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
->>>>>>> cd77fea62420e2fad1f36aa5d4af75dc25db073d
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
