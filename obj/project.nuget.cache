@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWYeD5tCjFybCnbbeDmhd2Vgwv0XTkRAc+rZLskceJsYdfjeTiboPQRGqrw/wHMsC1W+KAQUXAJAnAAgf2kbqQ==",
+  "dgSpecHash": "l8DlPi6XbwV7YMNosys7OFd1QlqNUfBIwl+YDUwJzB+0NHEXYTUvM6+cDt7Pp5cIvF5UK4qgW2vkdba8b7onAQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cs\\nihongo\\nihongo.csproj",
+  "projectFilePath": "C:\\dev\\nihongo\\nihongo\\nihongo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
